@@ -1,0 +1,7 @@
+changelog.txt filter=lfs diff=lfs merge=lfs -text
+forms filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
+index_files filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Readme.txt filter=lfs diff=lfs merge=lfs -text
+assets filter=lfs diff=lfs merge=lfs -text
